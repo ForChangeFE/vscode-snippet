@@ -1,7 +1,7 @@
 {
 	"name": "forc-snippets",
 	"displayName": "forc-snippets",
-	"description": "leave blank",
+	"description": "Provide creation vue/react + typescript project template",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.20.0"
@@ -9,8 +9,10 @@
 	"publisher": "forc-snippets",
 	"keywords": [
 		"Vue",
-		"Vue 2",
-		"Vue Snippets"
+		"React",
+		"Typescript",
+		"Javascript",
+		"vscode snippets"
 	],
 	"repository": {
 		"type": "git",
