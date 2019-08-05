@@ -2,7 +2,7 @@
 	"name": "forc-snippets",
 	"displayName": "forc-snippets",
 	"description": "Provide creation vue/react + typescript project template",
-	"version": "0.0.5",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.20.0"
 	},
@@ -28,7 +28,7 @@
 		"onCommand:extension.fos"
 	],
 	"main": "./out/extension.js",
-	"icon": "./images/forchange.png",
+	"icon": "https://git.forchange.cn/uploads/-/system/appearance/header_logo/1/%E8%B5%84%E6%BA%90_2_2x.png",
 	"contributes": {
 		"commands": [
 			{
