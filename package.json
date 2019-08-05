@@ -6,7 +6,7 @@
 	"engines": {
 		"vscode": "^1.20.0"
 	},
-	"publisher": "forchange-frontend",
+	"publisher": "forc-snippets",
 	"keywords": [
 		"Vue",
 		"Vue 2",
