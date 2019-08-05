@@ -1,6 +1,6 @@
 {
-	"name": "fos-convenient-plugin",
-	"displayName": "fos convenient plugin",
+	"name": "forc-snippets",
+	"displayName": "forc-snippets",
 	"description": "leave blank",
 	"version": "0.0.1",
 	"engines": {
