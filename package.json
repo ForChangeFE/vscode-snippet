@@ -16,7 +16,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@git.forchange.cn:common/frontend/package/vscode-snippet.git"
+		"url": "https://github.com/ForChangeFE/vscode-snippet.git"
 	},
 	"extensionDependencies": [
 		"octref.vetur"
@@ -28,7 +28,7 @@
 		"onCommand:extension.fos"
 	],
 	"main": "./out/extension.js",
-	"icon": "https://git.forchange.cn/uploads/-/system/appearance/header_logo/1/%E8%B5%84%E6%BA%90_2_2x.png",
+	"icon": "images/forchange.png",
 	"contributes": {
 		"commands": [
 			{
